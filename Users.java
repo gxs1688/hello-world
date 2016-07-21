@@ -73,6 +73,10 @@ public class Users {
 
 	@Override
 	public String toString() {
+		String a="1234";
+		String b="1234";
+		String c="1234";
+		String d="1234";
 		return "Users [id=" + id + 
 				    ", name=" + name + ", age=" + age + ", sex="
 				+ sex + ", email=" + email + ", address=" + address + "]";
