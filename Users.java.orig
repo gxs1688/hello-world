@@ -73,14 +73,14 @@ public class Users {
 
 	@Override
 	public String toString() {
-
+<<<<<<< HEAD
 		System.out.println();
-
+=======
 		String a="1234";
 		String b="1234";
 		String c="1234";
 		String d="1234";
-
+>>>>>>> 34aef3191c5a482adddef7c6c8e62c7c14b8916e
 		return "Users [id=" + id + 
 				    ", name=" + name + ", age=" + age + ", sex="
 				+ sex + ", email=" + email + ", address=" + address + "]";
