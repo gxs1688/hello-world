@@ -74,32 +74,16 @@ public class Users {
 	@Override
 	public String toString() {
 
-		System.out.println();
+		System.out.println("1234");
 
 		String a="1234";
 		String b="1234";
 		String c="1234";
 		String d="1234";
-		String a="1234";
-		String b="1234";
-		String a="1234";
-		String b="1234";
-		String a="1234";
-		String b="1234";
-		String c="1234";
-		String d="1234";
-		String a="1234";
-		String b="1234";
-		String a="1234";
-		String b="1234";
-		String a="1234";
-		String b="1234";
-		String c="1234";
-		String d="1234";
-		String a="1234";
-		String b="1234";
-		String a="1234";
-		String b="1234";
+		
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
 		
 		return "Users [id=" + id + 
 				    ", name=" + name + ", age=" + age + ", sex="
