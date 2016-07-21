@@ -7,7 +7,7 @@ public class Users {
 	private String sex;
 	private String email;
 	private String address;
-
+    private String address1;
 	public Users() {
 		super();
 	}
