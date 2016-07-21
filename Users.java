@@ -73,6 +73,7 @@ public class Users {
 
 	@Override
 	public String toString() {
+		System.out.println();
 		return "Users [id=" + id + 
 				    ", name=" + name + ", age=" + age + ", sex="
 				+ sex + ", email=" + email + ", address=" + address + "]";
