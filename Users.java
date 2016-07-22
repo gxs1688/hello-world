@@ -91,8 +91,13 @@ public class Users {
 
         System.out.println("这是xxx修改的部分");
 		
+System.out.print("王宁的修改");
+
 		return "Users [id=" + id + 
 				    ", name=" + name + ", age=" + age + ", sex="
 				+ sex + ", email=" + email + ", address=" + address + "]";
+				
 	}
+
+    
 }
