@@ -12,14 +12,14 @@ public class Users {
 		super();
 	}
 
-	public Users(int id, String name, int age, String sex, String email,
+	public Users(int id, String name, int age, String sex, String email1,
 			String address) {
 		super();
 		this.id = id;
 		this.name = name;
 		this.age = age;
 		this.sex = sex;
-		this.email = email;
+		this.email = email1;
 		this.address = address;
 	}
 
@@ -102,11 +102,8 @@ public class Users {
 
         System.out.println("这是xxx修改的部分");
 		
-System.out.print("王宁的修改");
+        System.out.print("王宁1的修改");
 
-		return "返回代码";
-				
-	}
-
-    
+		return "返回代码郭帅";
+       }   
 }
