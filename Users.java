@@ -78,16 +78,27 @@ public class Users {
 
 		String a="1234";
 		String b="1234";
-		String b="1234";
-		String b="1234";
 		String c="1234";
-		String b="1234";
-		String b="1234";
+		/*
+		*添加注释
+		*/
 		String d="1234";
+		String e="1234";
+		String f="1234";
+		String h="1234";
+		String e="1234";
+		String f="1234";
+		String h="1234";
+		String e="1234";
+		String f="1234";
+		String h="1234";
 		
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println(c);
+		System.out.println(d);
+		System.out.println(e);
+		System.out.println(f);
 
         System.out.println("这是xxx修改的部分");
 		
