@@ -86,8 +86,10 @@ public class Users {
 		
 		System.out.println(a);
 		System.out.println(b);
-		
 		System.out.println(c);
+		System.out.println(d);
+		System.out.println(e);
+		System.out.println(f);
 
         System.out.println("这是xxx修改的部分");
 		
